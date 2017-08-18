@@ -1,0 +1,20 @@
+{
+    "name": "15_0935_live_ifoss_law_book_en_2ed",
+    "serviceKey": "unknown",
+    "cvsType": "svn",
+    "notify": {
+        "email": {
+            "adapter": "smtp",
+            "smtp": {
+                "host": "mail.jpberlin.de",
+                "port": 25,
+                "secureConnection": false,
+                "ignoreTLS": false,
+                "auth": {
+                    "user": "app@textovia.com",
+                    "pass": "Chohle8j"
+                }
+            }
+        }
+    }
+}
