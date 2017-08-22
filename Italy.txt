@@ -285,7 +285,7 @@ The Code for the Digital Public Administration{empty}footnote:[Dlgs 85/2005 ``Co
 _______________
 * Software made _ad hoc_ for or by the concerned administration
 
-* Reuse of software made _ad hoc_ for other administration [which is compelled to license it for free, and to hand over also the source code]{empty}footnote:[Art. 69 CAD]
+* Reuse of software made _ad hoc_ for other administration [which is compelled to license it under an ``open license'', and to publish the source code in a public repository]{empty}footnote:[Art. 69 CAD]
 
 * Free and open source software [FOSS]
 
@@ -297,6 +297,8 @@ _______________
 ____________
 
 Furthermore, Art. 68.1-ter provides that only when there is a motivated impossibility to procure software under the conditions of reuse and/or FOSS, then the public administration can redress to the acquisition of software under proprietary conditions.{empty}footnote:[See Aliprandi, Simone and Piana, Carlo (2013) 'FOSS in the Italian public administration: fundamental law principles', 'International Free and Open Source Software Law Review', 5(1), pp 43 – 50 DOI: 10.5033/ifosslr.v5i1.84, available at http://www.ifosslr.org/ifosslr/article/view/84]. In other words, reuse and FOSS _must be preferred_ {empty}footnote:[However, the effectiveness of this measure can be fully ascertained with an in-field survey after a period of time, as many of similar laws have been largely disregarded, absent clear compliant enforcement measures] over proprietary software, even if on pure technical and economic bases proprietary solutions score better.
+
+In more recent times, a new important change has been made to Art. 69 CAD above mentioned. The new change provides that all software made for the public administration and that falls under the reuse obligation, not only must be relicensed for free (as it was reported in the previous version of this book and in the article referenced in the above footnote), but actually must be published on a public repository under an ``open license'' (we assume that ``open license'' is a poorly written synonym of the elsewhere more correctly used ``Free Software and open source license'').
 
 [[sec_italy_FOSSCasesinItaly]]
 === FOSS cases in Italy ===
