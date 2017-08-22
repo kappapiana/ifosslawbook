@@ -8,7 +8,7 @@ Simone Aliprandi (Italy):: (b. 1979) is an Italian attorney-at-law and
   at the Bicocca University of Milan. He founded and still coordinates
   the Copyleft-Italia.it project and has published numerous books
   devoted to openculture and copyleft. He also collaborates as a legal
-  consultant with Array (http://array.eu).
+  consultant with Array (https://array.eu).
 +
 http://www.aliprandi.org
 
@@ -101,9 +101,14 @@ Foundation Europe.
 http://www.moorcrofts.com
 
 
-Lucien Cheng-Hsia Lin (Taiwan):: (b. 1976) is a legal specialist and management advisor at "Open Source Software Foundry, OSSF", a mission-oriented project launched and sponsored by the highest academic institution in Taiwan, Academia Sinica, from 2003. He is in charge of the analysis and interpretation of FOSS licenses, the record and track of FOSS business trends and models for OSSF office, and serves as the legal lead of Creative Commons Taiwan from 2014. He is also a guest lecturer at National Chiao Tung University located in Hsinchu, Taiwan.
-+
-http://www.openfoundry.org/en/about
+Lucien Cheng-Hsia Lin (Taiwan):: (b. 1976) is a legal specialist and management
+advisor at "Open Source Software Foundry, OSSF", a mission-oriented project
+launched and sponsored by the highest academic institution in Taiwan, Academia
+Sinica, from 2003. He is in charge of the analysis and interpretation of FOSS
+licenses, the record and track of FOSS business trends and models for OSSF
+office, and serves as the legal lead of Creative Commons Taiwan from 2014. He is
+also a guest lecturer at National Chiao Tung University located in Hsinchu,
+Taiwan. + http://www.openfoundry.org/en/about
 
 
 Iain G. Mitchell QC (United Kingdom -- Scotland):: is in private
@@ -121,7 +126,16 @@ recommended in the Legal 500 for IT Law and is rated in Band 1 for
 both IT Law and Public Procurement Law in the Chambers Directory.
 
 
-Jongbaek Park (Korea):: heads the Open Source Team as a senior partner at Bae Kim & Lee LLC, an international law firm based in Korea.He also serves as the president of Korea Open Source Law Center, an inter-disciplinary organisation dedicated to research, training, providing solutions to issues surrounding open source software and hosting annual conference, FOSS Con,Korea with FSFE and NIPA. He is a widely acknowledged expert in the field of open source software in Korea. He has delivered a number of lectures about FOSS licenses at various forums and conferences.The author would like to acknowledge significant contributions to research by three attorneys, Youngduk Rew, former legal coordinator at Korea Open Source Law Center, Hye Jin Hwang and Nari Hong.
+Jongbaek Park (Korea):: heads the Open Source Team as a senior partner at Bae
+Kim & Lee LLC, an international law firm based in Korea.He also serves as the
+president of Korea Open Source Law Center, an inter-disciplinary organisation
+dedicated to research, training, providing solutions to issues surrounding open
+source software and hosting annual conference, FOSS Con,Korea with FSFE and
+NIPA. He is a widely acknowledged expert in the field of open source software in
+Korea. He has delivered a number of lectures about FOSS licenses at various
+forums and conferences.The author would like to acknowledge significant
+contributions to research by three attorneys, Youngduk Rew, former legal
+coordinator at Korea Open Source Law Center, Hye Jin Hwang and Nari Hong.
 
 
 Fabrice Perbost (France):: is a partner in the Paris office of Kahn &
@@ -136,39 +150,56 @@ universities.
 http://www.kahnlaw.com/en
 
 
-Carlo Piana (Italy):: is an Italian lawyer and a digital liberties
-activist. He is external General Counsel to the Free Software
-Foundation Europe and the President of the Board of the Protocol
-Freedom Foundation. He advises and assists clients in matters
-concerning information technology, Free and Open Source Software, data
-protection and trademarks/domain names. He is a member
-of the editorial committee of the International Free and Open Source
-Software Law Review.
+Carlo Piana (Italy):: is an Italian lawyer and a digital liberties activist. He
+is external General Counsel to the Free Software Foundation Europe and member of
+the Board of the Protocol Freedom Foundation. He advises and assists clients in
+matters concerning information technology, Free and Open Source Software, data
+protection and trademarks/domain names. He is a member of the editorial
+committee of the International Free and Open Source Software Law Review.
 +
-http://array.eu/
+https://array.eu/
 
 
-João Pedro Quintais (Portugal):: is a PhD candidate at the Institute for Information Law (IViR), University of Amsterdam. His current research focuses on alternative models to copyright enforcement on the Internet. João Pedro holds an LL.M in Intellectual Property and Competition Law from the Munich Intellectual Property Law Center. He's a qualified lawyer, member of the Portuguese Bar Association, who has worked since 2004 in the intellectual property and information technology areas, both as a lawyer and as legal counsel for a multinational software house.
-+
-http://www.ivir.nl/staff/quintais.html
+João Pedro Quintais (Portugal):: is a PhD candidate at the Institute for
+Information Law (IViR), University of Amsterdam. His current research focuses on
+alternative models to copyright enforcement on the Internet. João Pedro holds an
+LL.M in Intellectual Property and Competition Law from the Munich Intellectual
+Property Law Center. He's a qualified lawyer, member of the Portuguese Bar
+Association, who has worked since 2004 in the intellectual property and
+information technology areas, both as a lawyer and as legal counsel for a
+multinational software house. + http://www.ivir.nl/staff/quintais.html
 
 
-Ana Ramalho (Portugal)::
-is an Associate Professor of Intellectual Property at the University of South Wales (United Kingdom). Her current research interests are the aspects of the intersection between copyright law and European Union law, in particular regarding matters of competence. Ana is also part of several editorial boards and has served as an ad-hoc consultant to IP related organizations such as World Intellectual Property Organization (WIPO) or the European Patent Office (EPO).
+Ana Ramalho (Portugal):: is an Associate Professor of Intellectual Property at
+the University of South Wales (United Kingdom). Her current research interests
+are the aspects of the intersection between copyright law and European Union
+law, in particular regarding matters of competence. Ana is also part of several
+editorial boards and has served as an ad-hoc consultant to IP related
+organizations such as World Intellectual Property Organization (WIPO) or the
+European Patent Office (EPO).
 
 
-Andrew Rens (South Africa):: (b 1968) is a South African law and technology scholar and attorney. He is a Senior Lecturing Fellow at Duke Law School and an attorney at Garratt Hugo & De Souza Incorporated, Johannesburg, South Africa. He advises commercial and non-profit clients on open source licenses, open media licences, open data, open hardware and open standards.
-+
-http://opencounsel.net
+Andrew Rens (South Africa):: (b 1968) is a South African law and technology
+scholar and attorney. He is a Senior Lecturing Fellow at Duke Law School and an
+attorney at Garratt Hugo & De Souza Incorporated, Johannesburg, South Africa. He
+advises commercial and non-profit clients on open source licenses, open media
+licences, open data, open hardware and open standards. + http://opencounsel.net
 
 
-Tomasz Rychlicki (Poland):: (b. 1975) is a Polish patent and trade mark attorney and IT&IP lawyer. He graduated from the University of Gdańsk, the Faculty of Law, European Law Center.  Tomasz also studied at Chicago-Kent College of Law in the LL.M.  Program in International Intellectual Property Law. He is a member of the Editorial Board of the Journal of Intellectual Property Law & Practice and a country correspondent for the Computer and Telecommunications Law Review. Tomasz is one of the founding members of the Editorial Committe of the International Free and Open Source Software Law Review.
-+
-http://www.rychlicki.net
+Tomasz Rychlicki (Poland):: (b. 1975) is a Polish patent and trade mark attorney
+and IT&IP lawyer. He graduated from the University of Gdańsk, the Faculty of
+Law, European Law Center.  Tomasz also studied at Chicago-Kent College of Law in
+the LL.M.  Program in International Intellectual Property Law. He is a member of
+the Editorial Board of the Journal of Intellectual Property Law & Practice and a
+country correspondent for the Computer and Telecommunications Law Review. Tomasz
+is one of the founding members of the Editorial Committe of the International
+Free and Open Source Software Law Review. + http://www.rychlicki.net
 
 
-Henri Tanskanen (Finland):: is an Associate at HH Partners, Attorneys-at-law Ltd., with a background in corporate open source compliance work. He also works as an Open Source Specialist for Validos ry, an association providing sharing and production of open source compliance information to its corporate members.
-+
+Henri Tanskanen (Finland):: is an Associate at HH Partners, Attorneys-at-law
+Ltd., with a background in corporate open source compliance work. He also works
+as an Open Source Specialist for Validos ry, an association providing sharing
+and production of open source compliance information to its corporate members. +
 http://www.hhpartners.fi
 
 
@@ -189,25 +220,38 @@ complex ICT projects and conducting legal proceedings involving ICT
 disputes.  She also advises on and conducts legal proceedings
 involving ASP/ SaaS, cloud computing, compliance and (open source)
 software protection. She is a member of the international iTechLaw
-association. 
+association.
 +
 http://www.solv.nl
 
 
 
-Martin von Willebrand (Finland):: is the Head of Technology and Partner at HH Partners, Attorneys-at-law, Ltd. He is the chairman of Validos ry, an association providing sharing and production of open source compliance information to its corporate members, including for example Fujitsu Finland, Vaisala, Cargotec, Cassidian Finland and Tieto. He is a board and steering group member of COSS – The Finnish Centre for Open Systems and Solutions. He has widely received recommendations for his work mainly in the technology field from publications such as Legal 500, Chambers Europe and Who’s Who Legal. His clients in the free software field include, in addition to many businesses such as Ixonos Oyj, Free Software Foundation Europe, the Ministry of Environment of Finland, Validos and Aalto University.
-+
-http://www.hhpartners.fi
+Martin von Willebrand (Finland):: is the Head of Technology and Partner at HH
+Partners, Attorneys-at-law, Ltd. He is the chairman of Validos ry, an
+association providing sharing and production of open source compliance
+information to its corporate members, including for example Fujitsu Finland,
+Vaisala, Cargotec, Cassidian Finland and Tieto. He is a board and steering group
+member of COSS – The Finnish Centre for Open Systems and Solutions. He has
+widely received recommendations for his work mainly in the technology field from
+publications such as Legal 500, Chambers Europe and Who’s Who Legal. His clients
+in the free software field include, in addition to many businesses such as
+Ixonos Oyj, Free Software Foundation Europe, the Ministry of Environment of
+Finland, Validos and Aalto University. + http://www.hhpartners.fi
 
 
-Alan Walter (France):: specialises in intellectual property and technologies. He provides legal assistance in both advice and litigation in several fields like software industry (in particular Open Source matters), Internet & innovative technologies regulation, IP, and privacy and data protection.
-+
+Alan Walter (France):: specialises in intellectual property and technologies. He
+provides legal assistance in both advice and litigation in several fields like
+software industry (in particular Open Source matters), Internet & innovative
+technologies regulation, IP, and privacy and data protection. +
 alan.walter@runbox.com
 
 
-Mark H. Webbink (United States):: (b. 1950) is senior lecturing fellow at Duke University School of Law. Webbink is the former general counsel of Red Hat, Inc., and presently serves on the board of directors of the
-Software Freedom Law Center. A founding member of the editorial board of the International Free and Open Source Software Law Review. In May 2011 Webbink assumed the role of editor and publisher of the well known open source blog Groklaw.
-+
+Mark H. Webbink (United States):: (b. 1950) is senior lecturing fellow at Duke
+University School of Law. Webbink is the former general counsel of Red Hat,
+Inc., and presently serves on the board of directors of the Software Freedom Law
+Center. A founding member of the editorial board of the International Free and
+Open Source Software Law Review. In May 2011 Webbink assumed the role of editor
+and publisher of the well known open source blog Groklaw. +
 http://www.nyls.edu/faculty/faculty_profiles/mark_webbink
 
 
