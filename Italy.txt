@@ -303,8 +303,10 @@ In more recent times, a new important change has been made to Art. 69 CAD above 
 [[sec_italy_FOSSCasesinItaly]]
 === FOSS cases in Italy ===
 
-No cases have been reported yet (November 2013).
+Probably the most relevant case in Italy is not directly one on the validity of the a license or the infringement thereof. The most outspoken decision comes from the jurisprudence of Constitutional Court, resolving a conflict of attributions between the Italian State and the Piemonte Region (Regions have limited legislative powers). This decision finds that a law giving privileged access to free and open source software versus proprietary software in the procurement of the public administration is not unlawfully discriminating against technologies or providers, since it relates to a choice concerning the legal regime of the software and to be able to perform certain activities with it that are prohibited -- unless special permission is given -- under a proprietary software regime. For a discussion of this decision please refer to Piana, Carlo (2010) 'Italian Constitutional Court gives way to Free Software friendly laws', IFOSS L. Rev., 2(1), pp 61 – 66
+DOI: 10.5033/ifosslr.v2i1.38.
 
+No other cases are reported as of July 2017.
 
 [[sec_italy_Legalprocedures]]
 === Legal procedures ===
@@ -341,7 +343,6 @@ The author of the work can always join the proceedings to protect his or her own
 * Lele Rozza: Le principali iniziative legislative sul FLOSS, Chapter 10 of the book ``Il software libero in Italia'' (Shake, 2009) edited by Andrea Glorioso
 
 * Marco Saverio Spolidoro: Open source e violazione delle sue regole, in AIDA 2004 (2005, Giuffrè)
-
 
 * Vincenzo Zeno-Zencovich, Pieremilio Sammarco: Sistema e archetipi delle licenze open source, in AIDA 2004 (2005, Giuffrè)
 
