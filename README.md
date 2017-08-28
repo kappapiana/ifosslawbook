@@ -1,5 +1,7 @@
 # Ifoss law book
 
+**NOTE**: Good, you are working from the `bugfix` branch.
+
 This repository contains the sources in various formats of the second edition of the IFOSS Law Book.
 
 Any pull request will be authorized only by the copyright holders of the individual contributions.
