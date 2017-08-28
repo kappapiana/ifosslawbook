@@ -4,6 +4,13 @@ This repository contains the sources in various formats of the second edition of
 
 Any pull request will be authorized only by the copyright holders of the individual contributions.
 
+> **NOTE**: **_if you see this note you are working on the master branch_** please always work on the bugfix branch and make a pull request from there, so that the original version is untouched until we merge all the changes. On your local filesystem, you can do 
+        
+>        git -b bugfix
+>        git branch --set-upstream-to=origin/bugfix bugfix
+
+> and work from there
+
 ## Some useful commands to generata Markdown:
 
 **Requires ASCIIDOC**
