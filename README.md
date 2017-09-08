@@ -55,8 +55,8 @@ So instead of scripting it, you will be content with changing them by hand. You 
 
 and to do two things:
 
-a) Chnage the referenced text (the text between square brackets) so to have it look like:  
-  `  [Moral Rights](#sec_finland_moral_rights) and`
+a) Change the referenced text (the text between square brackets) so to have it look like: 
+`  [Moral Rights](#sec_finland_moral_rights) and`
 b) Ad the exact part between round brackets next to the relevant section title (where the reference points to) so it looks like:  
 `#### Moral Rights {#sec_finland_moral_rights}`
 
